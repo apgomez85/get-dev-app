@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://apgomez85:$yth3r34@getdev-hizmt.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb://apgomez85:$yth3r34@getdev-shard-00-00-hizmt.mongodb.net:27017,getdev-shard-00-01-hizmt.mongodb.net:27017,getdev-shard-00-02-hizmt.mongodb.net:27017/test?ssl=true&replicaSet=GetDev-shard-0&authSource=admin&retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken"
 }
