@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://apgomez85:$yth3r34@getdev-shard-00-00-hizmt.mongodb.net:27017,getdev-shard-00-01-hizmt.mongodb.net:27017,getdev-shard-00-02-hizmt.mongodb.net:27017/test?ssl=true&replicaSet=GetDev-shard-0&authSource=admin&retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e22794321ab6a7e45667",
+  "githubSecret": "70566dd072d782153abc1a658cf62db5f0bcfcc9"
 }
